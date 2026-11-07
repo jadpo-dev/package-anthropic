@@ -1,6 +1,6 @@
 # @jadpo/anthropic
 
-Answers your app's model calls through Anthropic's API. A Jadpo provider package, called `Anthropic.v1` in your app.
+Answers your app's model calls through Anthropic's API. A Jadpo provider package, called `Anthropic.v2` in your app.
 
 It lives in its own repository so each release is this repository at a tag, which is how
 jadpo.dev's package registry publishes every package. Once the registry opens:
