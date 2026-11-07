@@ -7,4 +7,16 @@ provider {
     credential_header: "x-api-key"
     headers: ["anthropic-version: 2023-06-01"]
     error_code: "error.type"
+    // Each public type, gone through against Anthropic's API reference on
+    // 2026-11-07.
+    reviewed: [
+        ContentBlock,
+        MessageParam,
+        MessageRequest,
+        MessageResponse,
+        MessageStreamDelta,
+        MessageStreamEvent,
+        MessageUsage,
+        StreamedMessageRequest
+    ]
 }
