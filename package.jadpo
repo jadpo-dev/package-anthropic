@@ -4,5 +4,5 @@
 package Anthropic.v2 {
     publisher: "@jadpo"
     licence: Licence.apache_2_0
-    jadpo: "1.0"
+    jadpo: "0.4"
 }

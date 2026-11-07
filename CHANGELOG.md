@@ -2,6 +2,7 @@
 
 ## 2.0.0
 
+- changed package `Anthropic.v2`
 - retyped type `MessageRequest`
 - retyped type `StreamedMessageRequest`
 
