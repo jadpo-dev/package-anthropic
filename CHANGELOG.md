@@ -2,7 +2,8 @@
 
 ## 2.0.0
 
-- no change to what it offers
+- retyped type `MessageRequest`
+- retyped type `StreamedMessageRequest`
 
 Each public type checked against Anthropic's API reference for the
 Messages API and its streamed events: every field's name, whether it is
